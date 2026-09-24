@@ -1,4 +1,7 @@
 com\mycompany\karyarasa\MainApp.class
-model\Relawan.class
-model\KaryarasaService.class
+view\KaryarasaView.class
 model\ProgramSosial.class
+model\ProgramDonasi.class
+model\ProgramEdukasi.class
+model\Relawan.class
+controller\KaryarasaController.class
